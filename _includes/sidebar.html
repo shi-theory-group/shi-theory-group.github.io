@@ -13,7 +13,7 @@ Merced, CA 95343 <br>
 
 <h3> Recent Posts </h3>
 <ul>
-  {% for post in site.posts limit: 5 %}
+  {% for post in site.posts limit: 3 %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
