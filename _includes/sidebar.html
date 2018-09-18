@@ -1,0 +1,19 @@
+<p><h3>Contact Us</h3>
+Liang Shi <br>
+Assistant Professor <br>
+Department of Chemistry and Chemical Biology <br>
+University of California, Merced <br>
+<br>
+email: lshi4@ucmerced.edu <br>
+<br>
+Classroom and Office Building (COB) 375 (Office), 396-14 (Student Office) <br>
+5200 N. Lake Road <br>
+Merced, CA 95343 <br>
+</p>
+
+<h3> Recent Posts </h3>
+<ul>
+  {% for post in site.posts limit: 5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>

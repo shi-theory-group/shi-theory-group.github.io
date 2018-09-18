@@ -1,0 +1,48 @@
+# THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+#
+#
+# - citation: 'Petek N, Kraemer J, Derman A, **Fraser JS**, DiMaio F, Baker D,  Pogliano J, Agard D, Mullins RD.Structure and function of actin-like protein Alp7A reveal conserved and unique features of actin-based plasmid segregation. *Submitted*, 2015.'
+#   date: 201507
+#   image: '/static/img/pub/petek_2015.jpg'
+#   pmid: TBD
+#   pmcid: In Process
+#   pdf: '/static/pdf/petek_2015.pdf'
+#   pdbs:
+#     - 5XXX
+#   links:
+#     - name: 'Mullins Lab'
+#       url: 'http://mullinslab.ucsf.edu/'
+#
+
+- citation: '- [Modeling the effects of molecular disorder on the properties of Frenkel excitons in organic molecular semiconductors](https://aip.scitation.org/doi/10.1063/1.5044553) L. Shi, and A. P. Willard. *J. Chem. Phys.* **149** (2018) 094110.'
+
+- citation: '- [Percolation in supercritical water: Do the Widom and percolation lines coincide?](https://aip.scitation.org/doi/abs/10.1063/1.5042556) S. E. Strong, L. Shi, and J. L. Skinner. *J. Chem. Phys.* **149** (2018) 084504.'
+
+- citation: '- [The enhancement of interfacial exciton dissociation by energetic disorder is a nonequilibrium effect](https://pubs.acs.org/doi/abs/10.1021/acscentsci.7b00404) L. Shi, C. K. Lee, and A. P Willard. *ACS Cent. Sci.* **3** (2017) 1262.'
+
+- citation: '- [A model of charge-transfer excitons: diffusion, spin dynamics, and magnetic field effeects.](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00871) C. K. Lee, L. Shi, and A. P. Willard. *J. Phys. Chem. Lett.* **7** (2016) 2246.'
+
+- citation: '- [Heavy snow: IR spectroscopy of isotope mixed crystalline water ice.](http://pubs.rsc.org/is/content/articlelanding/2016/cp/c5cp06756a/unauth#!divAbstract) A. Wong, L. Shi, R. Auchettl, D. McNaughton, D. R. T. Appadoo, and E. G. Robertson. *Phys. Chem. Chem. Phys.* **18** (2016) 4978.'
+
+- citation: '- [Two-dimensional infrared spectroscopy of neat ice Ih.](http://pubs.rsc.org/is/content/articlehtml/2016/cp/c5cp07264f) L. Shi, J. L. Skinner, and T. L. C. Jansen. *Phys. Chem. Chem. Phys.* **18** (2016) 3772.'
+
+- citation: '- [Nanoscale transport of charge-transfer states in organic donor-acceptor blends.](https://www.nature.com/articles/nmat4424) P. B. Deotare, W. Chang, E. Hontz, D. N. Congreve, L. Shi, P. D. Reusswig, B. Modtland, M. E. Bahlke, C. K. Lee, A. P. Willard, V. Bulovic, T. Van Voorhis, and M. A. Baldo. Nat. Mater. 14 (2015) 1130.'
+
+- citation: '- [Mixed quantum/classical approach to OH-stretch inelastic incoherent neutron scattering spectroscopy for ambient and supercooled liquid water and ice Ih.](https://aip.scitation.org/doi/abs/10.1063/1.4923387?journalCode=jcp) L. Shi, and J. L. Skinner. *J. Chem. Phys.* **143** (2015) 014503.'
+
+- citation: '- [Reparametrized E3B (explicit three-body) water model using the TIP4P/2005 model as a reference.](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00117) C. J. Tainter, L. Shi, and J. L. Skinner. *J. Chem. Theory Comput.* **11** (2015) 2268.'
+
+- citation: '- [Dielectric constant and low-frequency infrared spectra for liquid water and ice Ih within the E3B model.](http://scitation.aip.org/content/aip/journal/jcp/141/8/10.1063/1.4893792) L. Shi, Y. Ni, S. E. P. Drews, and J. L. Skinner. *J. Chem. Phys.* **141** (2014) 084508.'
+
+- citation: '- [Resonant vibrational energy transfer in ice Ih.](https://aip.scitation.org/doi/abs/10.1063/1.4883913?journalCode=jcp) L. Shi, F. Li, and J. L. Skinner. *J. Chem. Phys.* **140** (2014). 244503.'
+
+- citation: '- [Structure and OH-stretch spectroscopy of low- and high-density amorphous ices.](https://aip.scitation.org/doi/abs/10.1063/1.4869293?journalCode=jcp) C. J. Tainter, L. Shi, and J. L. Skinner. *J. Chem. Phys.* **140** (2014) 134503.'
+
+- cittion: '- [Proton disorder in ice Ih and inhomogeneous broadening in two-dimensional infrared spectroscopy.](https://pubs.acs.org/doi/abs/10.1021/jp405860u) L. Shi, and J. L. Skinner. *J. Phys. Chem. B* **117** (2013) 15536.'
+
+- citation: '- [Robustness of frequency, transition dipole, and coupling maps for water vibrational spectroscopy.](https://pubs.acs.org/doi/abs/10.1021/ct400292q) S. M. Gruenbaum, C. J. Tainter, L. Shi, Y. Ni, and J. L. Skinner. *J. Chem. Theory Comput.* **9** (2013) 3109.'
+
+- citation: '- [Hydrogen bonding and OH-stretch spectroscopy in water: hexamer (cage), liquid surface, liquid, and ice.](https://pubs.acs.org/doi/abs/10.1021/jz301780k) C. J. Tainter, Y. Ni, L. Shi, and J. L. Skinner. *J. Phys. Chem. Lett.* **4** (2013) 12.'
+
+- citation: '- [Interpretation of IR and Raman line shapes for H<sub>2</sub>O and D<sub>2</sub>O ice Ih.](https://pubs.acs.org/doi/abs/10.1021/jp3059239) L. Shi, S. M. Gruenbaum, J. L. Skinner. *J. Phys. Chem. B* **116** (2012) 13821.'
+

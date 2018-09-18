@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>The Fraser Lab Method of Following the Scientific Literature</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="This is the official web page for the James Fraser Lab at UCSF.">
+    <meta name="theme-color" content="#7fab91">
+    <link href="/static/css/bootstrap.css" rel="stylesheet">
+    <link href="/static/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="/static/css/syntax.css" rel="stylesheet">
+    <link href="/static/css/custom.css" rel="stylesheet">
+    
+    <link rel="alternate" type="application/atom+xml" title="Fraser Lab News Feed" href="/news.xml">
+    
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <!-- Static navbar -->
+      <div class="navbar navbar-fixed-top navbar-default" role="navigation">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Fraser Lab @ UCSF</a>
+          </div>
+          <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+              
+                
+                  <li><a href="/" alt="home"> home</a></li>
+                
+              
+                
+                  <li><a href="/research" alt="research"> research</a></li>
+                
+              
+                
+                  <li><a href="/publications" alt="publications"> publications</a></li>
+                
+              
+                
+                  <li><a href="/members" alt="members"> members</a></li>
+                
+              
+                
+                  <li class = "active"><a href="/news" alt="news"> news</a></li>
+                
+              
+                
+                  <li><a href="/contact" alt="contact"> contact</a></li>
+                
+              
+                
+                  <li><a href="https://sites.google.com/a/fraserlab.com/ucsf-private/" alt="private"> private</a></li>
+                
+              
+              <!-- <li><a href="https://sites.google.com/a/fraserlab.com/ucsf-private/" alt="Lab Private Area">private</a></li> -->
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </div>
+
+    <div class="container">
+
+
+<div class="row-fluid">
+    <div class="col-sm-7 col-md-8">
+        <div class = "page header"><h1>The Fraser Lab Method of Following the Scientific Literature</h1></div>
+        <p><span class="author"><a href="/members#">James Fraser</a></span><br>
+        <span class="date"><em>28 September 2013</em></span></p>
+        <p>A guide to using RSS Feeds to quickly scan and triage the scientific literature by James Fraser</p>
+
+<p>Yesterday I got an email from a colleague:</p>
+
+<blockquote>
+  <p>Jaime - should I use RSS or Twitter to stay tuned into what is being published in different journals?</p>
+</blockquote>
+
+<p>I was already primed to rant about this issue because I had participated in a follow up interview with a staff member at PLoS about their new structured post-publication review tool earlier in the day.  One of the ideas that emerged in the interview - an idea that got me a bit fired up - was that PLoS is motivated to create this tool to help researchers sort through the massive and overwhelming scientific literature. This is a widely held idea, but it rings completely false to me. This idea is even part of the motivation for a company started by some friends of mine (PubChase, which is part of ZappyLabs).</p>
+
+<p>I find it very easy to stay on top of the literature. I consider scanning and reading papers  to be one of my most important and enjoyable responsibilities as a scientist. It doesn’t take that much time (a few hours per week, most of which is while walking or waiting) and I almost never miss papers that I should have read.</p>
+
+<p>First, you need to define a set of journals that have most of the papers you want to read. Therefore, the first level of finding most (but not all) of the relevant papers is using RSS to follow the big weekly journals, a few bimonthly journals, and about a dozen monthly journals.  Staying on top of the literature leverages on our current journal stratification system.  Despite its flaws, I know that I’m more likely to want to read a paper in Nature than a paper in PLoS1 (sorry, Mike!). Second, to bring your attention to papers in the journals that you otherwise wouldn’t read, you can use a series of RSS feeds for keyword, author, and citation-based searches.</p>
+
+<p>Ultimately if PLoS1 is successful in absorbing all of Pubmed, sorting through the literature will become a bit harder. When this happens, it might necessitate the type of post-publication ranking systems that PLoS is trying to implement now.  That day is not here, yet.  So, while I am happy that PLoS is thinking about how we will struggle, in the future, to find and prioritize papers worth reading, I thought it would be helpful to outline my strategy for using RSS feeds for journals, authors, keywords, and citations.</p>
+
+<p>I use an RSS reader on my iPhone to scan through the titles of papers almost anytime I am walking within our building.  I read abstracts on my phone anytime I am sitting down waiting for something to start. I read papers on my computer in the morning when I’m drinking coffee. I probably spend 10-20 minutes a day engaged in the literature, almost all of it while waiting or walking. How do I set this up?  Read on…</p>
+
+<h3 id="what-is-rss">What is RSS?</h3>
+
+<p>RSS is a web syndication format that allows publishers to automatically update their audience of changes in content.  For the audience (us) this eliminates the need to check the website for updates - any new content is delivered via an RSS feed.  For scientific publishing, each journal generally has its own feed and each article is a separate item in the feed.  By directing all of these feeds to the same place, we can aggregate all the articles you would want to read. Google Reader was a very popular aggregator, but Google killed it.  I use Feedly now and find that it is pretty reliable and easy to use. It has a little more style than I would like, because I find the uneven formatting distracting.   I’ll detail more on how to use Feedly and my general workflow below.</p>
+
+<p>Most newspaper sites, blogs, etc also have RSS feeds - but I keep my science and personal RSS feeds separate.
+The RSS logo is this:</p>
+
+<p><img src="/static/img/news/rss-logo.png" alt="RSS Logo" title="RSS" /></p>
+
+<p>More information can be found on <a href="http://en.wikipedia.org/wiki/RSS">Wikipedia</a></p>
+
+<h3 id="why-rss-instead-of-emailed-toc-or-twitter">Why RSS instead of emailed TOC or Twitter?</h3>
+
+<p>You can use RSS feeds to automatically collect all the new articles in one place, read through the titles rapidly, save the titles that look interesting, and then read only a limited subset of those articles. Like receiving table of contents (TOC) emails, RSS feeds will notify you when a journal publishes a new issue and give you titles of all the articles.</p>
+
+<p>There are two major advantages over email TOC: 1) in the RSS feed, articles are discretized (often with the abstract) - meaning you can quickly sort through the entire issue and save the relevant portions for later, 2) email is for back and forth communication - I am often overwhelmed by the amount of email that I get and have set up several filters to try to reserve my inbox to actual back and forth communication, leaving all non-urgent notifications to sort through at a later time. Separating the literature into RSS feeds (away from email) also creates a psychological divide between one of my most joyful activities as a scientist (reading the literature) from one of my most hated (email).</p>
+
+<p>Why not Twitter? RSS feeds will give you the opportunity to (quickly) sort through every article. If you buy the premise that the literature is overwhelming, then Twitter might be good for you. I worry that the signal-to-noise on literature commenting/highlighting on Twitter will be very low - but I haven’t really used it much.</p>
+
+<h3 id="how-to-set-up-rss-feeds">How to set up RSS feeds:</h3>
+
+<p>1) <a href="http://cloud.feedly.com/#start">Create a feedly account</a></p>
+
+<p>Feedly is a good RSS aggregator. Right now you will first have to add a feed.  Search for “Plos biology” and click “add to my feedly” to be prompted to create an account. Link the account to your google account.</p>
+
+<p>2) Set up chrome to add RSS feeds properly.</p>
+
+<p>Option 1: Install the <a href="https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?hl=en">Google chrome extension</a>
+After it is installed, alter the options for this extension in Chrome:</p>
+<ul>
+  <li>Window-&gt;Extensions</li>
+  <li>Find RSS Subscription Extension (by Google) and click Options</li>
+  <li>In “RSS Subscription options” click add</li>
+  <li>Enter:</li>
+  <li>Description: Feedly</li>
+  <li>URL: http://www.feedly.com/home#subscription/feed/%s</li>
+</ul>
+
+<p>Make sure this is the default selection, and click “Always use my default reader when subscribing to feeds.”</p>
+
+<p>Now, anytime you are on a website with an RSS feed, the RSS logo will appear at the right of the location/search bar.  Clicking on the logo will take you to feedly to add the RSS feed to your list.</p>
+
+<p>Option 2: <a href="https://chrome.google.com/webstore/detail/feedly/hipbfijinpcgfogaopmgehiegacbhmob">Feedly’s chrome extension</a></p>
+
+<p>3) Add RSS feeds for journals.</p>
+
+<p>This is a just  first step - don’t worry you will get a broader range of journals through keyword, author and citation based searches!</p>
+
+<p>Now that the Chrome extension is set up, go the websites of your favourite journals - if there is an RSS logo in the location bar, add it.  If not, search for RSS in the text (this is especially bad for the Cell Press family).  I suggest making a quick list first of the journals you want to hit first.  Below is my list, followed by the url for the RSS feed so you can just copy and paste it into the “add content” bar in feedly.</p>
+
+<p>The big/weekly/general interest journals (everyone cares):</p>
+<ul>
+  <li>Nature - http://www.nature.com/nature/current_issue/rss</li>
+  <li>Science - http://www.sciencemag.org/rss/current.xml</li>
+  <li>Cell - http://rss.sciencedirect.com/publication/science/00928674</li>
+  <li>eLife - http://elife.elifesciences.org/rss/recent.xml</li>
+  <li>PLoS Biology - http://www.plosbiology.org/article/feed</li>
+  <li>PNAS - http://www.pnas.org/rss/current.xml</li>
+</ul>
+
+<p>biweekly/npg/baby plos/etc (most people probably care):</p>
+<ul>
+  <li>Nature Methods: http://www.nature.com/nmeth/current_issue/rss</li>
+  <li>Molecular Systems Biology: http://www.nature.com/msb/current_issue/rss/</li>
+  <li>Nature Genetics: http://feeds.nature.com/ng/rss/current</li>
+  <li>NSMB: http://www.nature.com/nsmb/current_issue/rss</li>
+  <li>Nature ChemBiol: “http://feeds.nature.com/nchembio/rss/current</li>
+  <li>PLoS Genetics: http://www.plosgenetics.org/article/feed</li>
+  <li>PLoS CompBio: http://www.ploscompbiol.org/article/feed</li>
+  <li>Science Signalling: http://stke.sciencemag.org/rss/current.xml</li>
+  <li>Cell Reports: http://rss.sciencedirect.com/publication/science/22111247</li>
+  <li>Molecular Cell: http://rss.sciencedirect.com/publication/science/10972765</li>
+</ul>
+
+<p>a few specific to my field (you and your colleagues care):</p>
+<ul>
+  <li>ActaCrystD: http://journals.iucr.org/d/rss10.xml</li>
+  <li>JBiolNMR: http://www.springerlink.com/content/102922/?sortorder=asc&amp;+export=rss</li>
+  <li>Current opinion in structural biology: http://rss.sciencedirect.com/+publication/science/0959440X</li>
+  <li>Protein Science: http://www3.interscience.wiley.com/rss/journal/121502357</li>
+  <li>Structure: http://rss.sciencedirect.com/publication/science/09692126</li>
+  <li>Biochemistry: http://pubs.acs.org/wls/alerts/rss/bichaw.rss</li>
+  <li>JMB: http://rss.sciencedirect.com/publication/science/00222836</li>
+</ul>
+
+<p><em>note</em>: for the Cell Press Journals, I use the ScienceDirect Feeds rather than the ones that go to the journal itself.  This is because Cell stopped updating their RSS feeds for a brief period earlier in 2013 and UCSF only has access through ScienceDirect anyway.</p>
+
+<p>4) Add custom searches</p>
+
+<ul>
+  <li>From pubmed</li>
+</ul>
+
+<p>For some journals, I really only care about a subset of the stuff that is published. For example, there is a lot of organic chemistry in JACS that I don’t care about, but I generally want  to read anything in JACS that has the word protein in it. Narrower searches could be useful for PLoS1, etc. It just requires a little sleuthing to figure out the Pubmed Abbreviation for the Journal. To set this up search described above, enter into the pubmed seach bar: <code class="highlighter-rouge">"J Am Chem Soc"[Journal] AND protein</code> and click on the RSS logo under the pubmed search bar (not on the location bar). Then, add the url for that search to feedly:</p>
+
+<p>http://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=0ht3efJvo9Hq3At6XO-qXnFhj1CwHy-Eb84dXls1aXt</p>
+
+<p>Similarly, you can use Pubmed to set up RSS feeds to follow your favourite scientists and friends. Just search pubmed for their name “Fraser JS” for example and click on the RSS logo.  I have feeds for most of the people in my department, my collaborators, people whose work I really admire, etc.</p>
+
+<p>Finally, keywords in pubmed. I recommend trying out a few searches first. But anything that has less than 20 new papers published per week is pretty manageable.</p>
+
+<ul>
+  <li>From arXiv &amp; bioRxiv</li>
+</ul>
+
+<p>Some read arXiv, you know who you are. There’s an export API with <a href="https://arxiv.org/help/api/user-manual#query_details">different query construction rules</a>. This lets you build fun searches like <a href="http://export.arxiv.org/api/query?search_query=all:%28ligand+OR+drug+OR+molecule+OR+compound+OR+bioactivity%29+AND+%28network+OR+%28%28deep+OR+machine%29+AND+learning%29%29"><code class="highlighter-rouge">contains (ligand, drug, molecule, compound, OR bioactivity) AND (network OR ((deep OR machine) AND learning))</code></a>. Then subscribe to the resulting feed using your very most favoritest chrome extension.</p>
+
+<p>bioRxiv likewise supports <a href="http://www.biorxiv.org/alertsrss">feeds and subject category filtering</a>.</p>
+
+<p>5) Add citation-based searches.</p>
+
+<p>This is a bit trickier and relies on Web of Science.  I have these set up for most of my papers and papers published by others that I care a lot about. Instructions are <a href="https://images.webofknowledge.com/images/help/WOS/hp_my_citation_alerts.html">here</a></p>
+
+<p>I wish google would implement this for google scholar - they have email alerts, but not RSS. You can use an <a href="http://emails2rss.appspot.com/">email to rss converter</a> to help with this.</p>
+
+<p>6) Isn’t there some redundancy?</p>
+
+<p>Yes - but that presents more opportunities to actually read an important paper.</p>
+
+<p>7) How long does this take to set-up?</p>
+
+<p>~15 minutes. Plus, anytime you want to add a new search for a new author or new journal, you can just add the feed.</p>
+
+<h3 id="how-to-move-through-rss-feeds-efficiently">How to move through RSS feeds efficiently:</h3>
+
+<p>Separate reading titles, sorting abstracts, and reading papers into distinct tasks at distinct times</p>
+
+<h4 id="titles-while-walking-around">Titles, while walking around:</h4>
+
+<p>I scan through the titles from RSS feeds very quickly. I have a good RSS reader on my phone (Byline, which I prefer to Feedly’s native app) that syncs with feedly. Whenever I am walking, I use byline to swipe through article titles and star the ones with interesting sounding abstracts. I generally sneak a peek at the author list too and save based on authors.</p>
+
+<p>Similarly, when I’m on my computer, I scan through titles very quickly using keyboard shortcuts (<code class="highlighter-rouge">j</code> for next, <code class="highlighter-rouge">k</code> for previous) and save articles for later (keyboard shortcut <code class="highlighter-rouge">s</code>).</p>
+
+<h4 id="abstracts-while-sitting-and-waiting">Abstracts, while sitting and waiting:</h4>
+
+<p>When I have small pockets of time (usually waiting for someone or sitting somewhere), I go into my saved folder (on the phone or computer) and read the abstracts.  If I have a lot of time (more than 5 minutes) and am at my computer, I will open the interesting ones in the background (install <a href="https://chrome.google.com/webstore/detail/feedly-background-tab/gjlijkhcebalcchkhgaiflaooghmoegk">this extension</a> and then the keyboard shortcut is <code class="highlighter-rouge">;</code>).</p>
+
+<p>This keeps the focus on the abstracts and doesn’t require touching the mouse or trackpad.  I get into a rhythm of hitting <code class="highlighter-rouge">j</code> (then <code class="highlighter-rouge">;</code>) then <code class="highlighter-rouge">s</code> to advance (, open) and unstar an article.  If I’m on my phone or don’t have a lot of time, I just unstar the ones that no longer interest me.</p>
+
+<h4 id="reading-while-you-have-5-minutes-at-your-computer">Reading, while you have &gt;5 minutes at your computer:</h4>
+
+<p>When I have time (generally first thing in the AM and on weekends) - I open up background tabs for all the articles have survived in my saved folder and start scanning through them.  I’m a fairly fast reader and have learned to get a lot out of scanning articles.  I don’t read many articles carefully, but I get a good idea of what is going on in the literature based on…</p>
+
+<h4 id="my-80-20-theory-of-the-literature">My 80-20 theory of the literature:</h4>
+
+<p>I scan through all the articles in my RSS feeds and save ~20% of the titles to read the abstracts (1-3 seconds per paper). This is done on my phone or on my computer.</p>
+
+<p>Of the papers I read the abstracts for, I open the full article for ~20% (5-10 seconds per paper).  I read abstracts on my phone or my computer. If I’m on my computer, I will often go through the rest of the steps. If I’m on my phone, I simply unstar the ones I don’t want to read and come back to the full text when I’m at my computer.</p>
+
+<p>Of the papers I open to scan through the figures and headings, I decide that ~20% of the articles are actually worth reading (15-45 seconds per paper).</p>
+
+<p>Of the papers I read, I bail part way through most of them and read every word for about 20% of the papers (1-3 minutes when I bail, 3-15 minutes when I read the whole paper).</p>
+
+<p>Of those, I study about 20% of those papers by reading them multiple times and looking through references, thinking critically about the figures/controls, etc (20 minutes-2 hours per paper - only 1-2 papers per week get to this stage). Occasionally I will print these papers on to paper and/or save the PDF to read later.</p>
+
+<p>Of the references I look up, I probably end up scanning 20%, reading 20% of that, etc. This allows me to engage with past literature and pick up on important papers I may have missed otherwise.</p>
+
+<p>This strategy keeps me aware of what is being published and gives me a partial knowledge of what many of the papers in look like, what kind of conclusions people are drawing, what techniques are emerging, etc.  I think it helps me develop a broad knowledge of what is going on in the literature and allows me to focus on a small subset of papers to read deeply.</p>
+
+<p>Is the 80/20 number totally made up? Yes. Many weeks it might end up as 95/5 in some steps and 50/50 in others.  It’s just a guideline that makes me very comfortable in abandoning papers at any point in the process.</p>
+
+<h3 id="why-i-dont-use-mendeley-or-papers-or-anything-else">Why I don’t use Mendeley or Papers or anything else.</h3>
+
+<p>I’ve never been the type to take notes on physical paper or even on PDFs.  For this purpose, I imagine these applications are quite useful. I also think the amount of time people spend categorizing and organizing papers is better spent reading titles, abstracts, and papers. With pubmed searches and a good memory for author names, you are never more than 5 seconds from finding the paper anyway. I like the idea of Pubchase using this information to prioritize a feed of articles - but wish they would embrace RSS feeds as a way to stay on top of the literature.</p>
+
+<h3 id="ok---i-actually-do-use-papers">Ok - I actually do use Papers.</h3>
+
+<ul>
+  <li>but only for citations (it is much better than endnote).  I don’t pay attention to my Library at all.  I just search in a browser window for what I want, copy the pubmed ID and then import based on that into my library.  Then I generally use PMID for finding and inserting the references.</li>
+  <li>nowadays, PaperPile isn’t too shabby either, and these all have browser extensions for quick additions to your library.</li>
+</ul>
+
+        <div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'fraserlab'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </div>
+    <div class="col-sm-5 col-md-4 hidden-xs">
+        <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/fraser_lab" data-widget-id="486191843416092672">Tweets by @fraser_lab</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+    </div>
+</div>
+
+    </div>
+    <hr>
+    <div id="footer footer-fixed-bottom">
+      <div class="container">
+        <p class="text-muted credit"> This website is open-source and available on <a href="https://github.com/fraser-lab/fraser-lab.github.io">Github</a>.</p>
+      </div>
+    </div>
+
+     <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    
+    <script src="/static/js/bootstrap.min.js"></script>
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-52773332-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+  </body>
+</html>

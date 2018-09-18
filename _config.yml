@@ -1,0 +1,13 @@
+name: "Shi Group @ UCM"
+description: "This is the official web page for the Liang Shi Lab at UCM."
+
+url: "http://fraserlab.com"
+
+paginate: 5
+gems: [jekyll-paginate]
+paginate_path: "news/page:num"
+
+permalink: pretty
+markdown: kramdown
+kramdown: 
+  parse_block_html: true
