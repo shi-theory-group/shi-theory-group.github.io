@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-# Welcome to the Shi Group!
+# Under construction! Welcome to the Shi Group!
 
 We are part of the [Department of Chemistry and Chemical Biology](http://chemistry.ucmerced.edu/), and the Center for Chemical Computation and Theory at the [University of California, Merced (UCM)](https://www.ucmerced.edu/) . 
 
