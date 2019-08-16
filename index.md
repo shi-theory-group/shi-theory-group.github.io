@@ -10,4 +10,4 @@ We are part of the [Department of Chemistry and Chemical Biology](http://chemist
 
 We are a theoretical chemistry research group with interests in developing and applying multi-scale modeling methods to understand the structure, dynamics and spectroscopy of complex condensed-phase molecular systems. 
 
-We are located on the third floor of the Classroom and Office Building (COB) at UCM.
+We are located on the second floor of the Arts and Computational Sciences (ACS) building at UCM.
