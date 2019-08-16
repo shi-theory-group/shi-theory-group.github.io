@@ -6,7 +6,7 @@
   link: "/members"
   group: members  
 
-- name: projects
+- name: research
   link: "/research"
   group: research
 
