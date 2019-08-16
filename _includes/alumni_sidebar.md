@@ -1,5 +1,5 @@
 
-## Fraser Lab Alumni
+## Group Alumni
 
 
 {% for alum in site.data.alumni %}
