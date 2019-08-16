@@ -1,24 +1,29 @@
 - name: Liang Shi
-  image: /static/img/members/fraser_new.jpg
-  altimage: /static/img/members/photobomb/FRASER.jpg
+  image: /static/img/members/liang.jpg
   position: Principal Investigator
   email: lshi4@ucmerced.edu
-  description: "Liang received his B.S. degree in Chemistry in 2009 from the University of Science and Technology of China (USTC), and his B.S. thesis was on under the supervision of [Prof. Yao Fu](http://en.scms.ustc.edu.cn/2011/0703/c13455a89204/page.htm)."
+  description: "Liang received his B.S. degree in Chemistry in 2009 from the University of Science and Technology of China (USTC), and did undergraduate research with Prof. Yao Fu. He then moved to Madison WI, and received his Ph.D. in Chemistry in 2014 under the supervison of Prof. James Skinner. After doing a postdoc with Prof. Adam Willard at MIT, he started his independent career at UC Merced in 2016. He is interested in developing and applying models to understand structures, dynamics, and spectroscopy of heterogeneous molecular systems."
 
+- name: Yue Yu
+  image: /static/img/members/yue.jpg
+  position: Postdoctoral Scholar
+  email: yyu49@ucmerced.edu
+  description: "Yue received double B.S. degrees in 2014 in Chemical Engineering from University of Kentucky, Lexington, KY, USA, and Process Equipment and Control Engineering from China University of Mining and Technology (CUMT), and did her undergraduate research with Prof. Yang-Tse Cheng. She received her Ph.D. in 2017 in Chemical Engineering from the University of Kentucky under the supervision of Prof. Christina M. Payne. In Liang's group, her research interest is applying molecular dynamics (MD) simulations combined with quantum mechanics to understand the vibrational solvatochromic shifts of various organic photovoltaic materials."
+  
 - name: Bowen Han
-  image: /static/img/members/lliu.jpg
-  altimage: /static/img/members/photobomb/LIU.jpg
+  image: /static/img/members/bowen.jpg
   position: Graduate Student
   email: bhan5@ucmerced.edu
-  description: "Lin was a graduate student at University of Pittsburgh with Angela Gronenborn and Ivet Bahar. Next, Lin was a joint post-doc and Li Foundation fellow between the Kortemme and Fraser labs, using computational and experimental techniques to study the evolution of protein dynamics. Since 2015, she has continued her research in the Fraser lab and has become the key go-to person for its day-to-day operations!"
+  description: "TBA"
 
 - name: Hanbo Hong
-  image: /static/img/members/mike.jpg
-  altimage: /static/img/members/photobomb/THOMPSON.jpg
+  image: /static/img/members/hanbo.jpg
   position: Graduate Student
   email: hhong11@ucmerced.edu
-  description: 'Michael was an undergraduate at UC Berkeley, where he was introduced to structural biology and X-ray crystallography as a research assistant in Tom Alber’s laboratory. He received his Ph.D. in 2014 from UCLA, where he worked under the direction of Todd Yeates, investigating structure-function relationships in a key family of proteins that define a widespread class of prokaryotic organelles collectively known as “bacterial microcompartments.” As a postdoc in the Fraser Lab, Michael will examine how amino acid substitutions alter the catalytic rates of enzymes by modifying their conformational ensembles. This work will emphasize the characterization of disease-associated mutations found in human proteases. Additionally, Michael will work on developing experimental methodology for studying conformational heterogeneity and structural dynamics of protein molecules using X-ray free electron lasers (XFELs).
+  description: "Hanbo joined the group in fall 2018. He received his B.E. from South China University of Technology (SCUT) in 2016, specialized in Polymer Materials and Engineering under Prof. Xiaoping Wang's supervision, and then completed M.S. in Material Science in the University of Southern California (USC). He is currently interested in modelling novel vibrational and electronic spectroscopy for complex systems, e.g. vibrational circular dichroism (VCD) for proteins, and two-dimensional electronic spectroscopy (2DES) for organic dyes."
 
-
-  Mike has been supported by a BioXFEL postdoctoral fellowship and is currently supported by a F32 fellowship from NHLBI'
-
+- name: Jiehui (Wendy) Liao
+  image: /static/img/members/wendy.jpg
+  position: Undergraduate Student
+  email: jliao22@ucmerced.edu
+  description: "TBA"
