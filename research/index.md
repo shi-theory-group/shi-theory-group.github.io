@@ -4,18 +4,24 @@ layout: default
 group: research
 ---
 
-<img class="img-responsive center-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form">
+<img class="img-responsive center-block" src="/static/img/fraseratucsf.jpg">
 
-## What are the “structures” of proteins?
+<!-- <img class="img-responsive center-block" src="/static/img/fraseratucsf.jpg" alt="Fraser at UCSF, in molecular form"> -->
 
-X-ray crystallography is traditionally used to define a single, static macromolecular structure. However, these “structures” are based on fitting atomic models into electron density maps that portray an ensemble average of the billions and billions of molecules in the crystal. By mining these maps using the electron density sampling program Ringer (developed in the Alber Lab at UC Berkeley), we have shown that ensemble features can reliably detected and that noise levels are much lower than commonly thought. Features at low-levels of electron density can reveal ligand, protein and solvent flexibility that can be exploited in inhibitor optimization. We are testing how ensemble (e.g. phenix.ensemble_refinement developed by the Phenix consortium at LBL) and multi-conformer (e.g. qFit developed by our collaborator Henry van den Bedem at SSRL/SLAC) modeling methods can improve both the statistical fit to experimental data and the ability to generate novel biological hypotheses.  The next major challenge is to determine the extent to which distant parts of the protein are conformationally coupled. 
+Many molecular systems are highly heterogeneous yet functional: for example, natural photosynthetic systems (e.g., green plants) are messy and noisy on the microscopic scale, but harvest sunlight at efficiencies much higher than any man-made solar cell. Understanding the principles of molecular organization in complex systems to achieve their functions is critical to the design and improvement of new materials. Due to the complexity of these systems, their microscopic structures are difficult to probe in experiment, and in many cases, experimental data are interpreted with the aid of theory and modeling. *We are interested in developing and applying simulation models to understand these systems, such as organic/hybrid semicondutor devices, and proteins at surfaces. Whenever possible, we like to validate our models against experimental data, in particular vibrational spectroscopy.*
 
-## What are the key barriers and motions between these structures?
+## How do we simulate these systems?
 
-Proteins often move between different conformations. NMR spectroscopy is well suited to determining the existence of multiple states and the rates of transitions between them.  However, the atomic details of these transitions remain difficult to ascertain and interrogate. To address these challenges, we have found that the conformational distributions of proteins in the crystal are remarkably sensitive to temperature perturbations. Previously we, in collaboration with Dorothee Kern’s lab at Brandeis, used these strategies to define catalytically essential conformations of the proline isomerase CypA. Residues that shift above and below the glass transition often overlap with the regions implicated by dynamic NMR studies. To build on these synergies between X-ray crystallography, computation, and NMR, we are refining room temperature diffraction techniques to minimize radiation damage. In addition, we are developing new X-ray scattering techniques to define collective protein motions.
+We mostly perform classical molecular dynamics (MD) simulations (some MD snapshots of our simulated systems are shown above), but whenever needed, we use quantum chemistry to guide the use of force fields. We then compute various structural and dynamical properties, including spectroscopy, and validate our simulation by comparing the calculated properties with experiment.   
+
+## Why do we model vibrational spectroscopy?
+
+Molecular vibrational spectroscopy is particularly useful in reporting local molecular structures of complex systems, ranging from biological aqueous systems to amorphous solid materials. However, other factors such as thermal broadening also contribute substantially to the final spectra, and their interpretations are sometimes challenging, in particular for the state-of-the-art ultrafast spectroscopy (e.g., 2D-IR). Spectroscopic modeling is proved to be invaluable in dissecting experimental spectra, and more importantly connecting them directly to microscopic molecular configurations. 
+
+## How do we model vibrational spectroscopy?
+
+It depends, but our calculations are all based on some time correlation functions (TCFs). Sometimes we are lucky, and we can just compute classical TCFs directly from MD simulations. Sometimes we need to add some flavor of quantum mechanics into our model, namely using some mixed quantum/classical approaches. Very often, we like to write our own codes to do spectral simulations. 
 
 ## ...and what matters?
 
-Finally, although these biophysical techniques generate beautiful images of electron density maps and NMR spectra, we use a variety of assays to test the importance of alternative conformations and protein motions. We study the role of protein motions in enzyme catalysis using directed evolution screens and selections.  In collaboration with Tanja Kortemme’s lab, we test the ability of protein design approaches to generate rescue mutants and create novel functions. We investigate the consequences of altering biophysical parameters in the context of living systems using high-throughput genetic screens pioneered by our collaborator Nevan Krogan.  These approaches reveal extensive parallels that scale from systems biology to atomic mechanisms in how we understand genetic non-additivity, buffering, and robustness.  We believe this “systems to structure” approach will be essential for elucidating disease mechanisms in the age of personal genomics.  
-
-The long-term goals of our research are: 1) to develop fundamental biophysical methods and 2) to apply these methods to define the role of protein conformational dynamics in interaction specificity, allostery, and catalysis.
+We believe that simulation matters when it connects to experiment so that simulation can help experimentalists interpret and possibly design their experiment, and experiment can help theorists refine their simulation models. Once the simulation model is trustworthy, it is our hope that simulations can guide experiment to improve the functionalities of these complex systems. 
