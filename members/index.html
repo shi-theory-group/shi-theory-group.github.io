@@ -15,8 +15,11 @@ group: members
         <strong>{{person.name}}</strong> <br>
         {{person.position}} <br>
         <em>{{person.email}}</em> <br>
-        {% if person.phone %}
+        {% if person.phone %}   
           <em>{{person.phone}}</em> <br>
+        {% endif %}
+        {% if person.room %}
+        <em>{{person.room}}</em> <br>
         {% endif %}
         {% if person.website %}
           <a href= "{{person.website}}">{{person.website}}</a> <br>
