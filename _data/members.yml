@@ -9,41 +9,41 @@
 - name: Yue Yu
   image: /static/img/members/yue.jpeg
   position: Postdoctoral Scholar
-  email: Email: yyu49@ucmerced.edu
-  room: Room: ACS 215
+  email: "Email: yyu49@ucmerced.edu"
+  room: "Room: ACS 215"
   description: "Yue received double B.S. degrees in 2014 in Chemical Engineering from University of Kentucky, Lexington, KY, USA, and Process Equipment and Control Engineering from China University of Mining and Technology (CUMT), and did her undergraduate research with Prof. Yang-Tse Cheng. She received her Ph.D. in 2017 in Chemical Engineering from the University of Kentucky under the supervision of Prof. Christina M. Payne. In Liang's group, her research interest is applying molecular dynamics (MD) simulations combined with quantum mechanics to understand the vibrational solvatochromic shifts of various organic photovoltaic materials."
   
 - name: Shao-Yu Lu
   image: /static/img/members/shaoyu.jpg
   position: Postdoctoral Scholar
-  email: Email: slu43@ucmerced.edu
-  room: Room: ACS 211
+  email: "Email: slu43@ucmerced.edu"
+  room: "Room: ACS 211"
   description: "Shao-Yu is a joint postdoc between the [Isborn](https://sites.ucmerced.edu/cisborn) and Shi groups, and he is working on the modeling of optical spectroscopy. His previous research project focused on searching the new materials in combination with scientific programming and new numerical algorithm development. For instance, 1) successfully developed a cost effective genetic algorithm code for predicting high-efficiency organic light emitter device (OLED) material 2) to generate the high-accuracy thermodynamic properties, such as, entropy, enthalpy, free energy and multi-dimensional anharmonic frequency calculations (full vibrational configuration interaction (Full-VCI) and vibrational perturbation theory (VPT) ). 3) heterogeneous catalytic reactions for organic molecules adsorbed on metal surface and generated their time-resolved/ temperature-dependent vibrational spectra by using ab-initio molecular dynamics (AIMD) and their time-frequency analysis. More information about Shao-Yu can be found in his [personal website](https://sites.google.com/umich.edu/shaoyulu)."
   
 - name: Bowen Han
   image: /static/img/members/bowen.jpg
   position: Graduate Student
-  email: Email: bhan5@ucmerced.edu
-  room: Room: ACS 208D
+  email: "Email: bhan5@ucmerced.edu"
+  room: "Room: ACS 208D"
   description: "Bowen received his B.S. in Chemistry from Peking University in 2015 and did undergraduate research with Prof. Jin Zhang and Prof. Lianming Tong. He completed his M.S. degree in Chemistry under the supervision of Prof. Josef Michl in the University of Colorado Boulder in 2018. He then joined Liang’s group as graduate student. His current research interest is improving modeling of charge transfer within complex environments, e.g., water and its solutions. He is also interested in applying molecular dynamics (MD) to study the behavior of antifreeze proteins in interfacial environments."
 
 - name: Hanbo Hong
   image: /static/img/members/hanbo.jpg
   position: Graduate Student
-  email: Email: hhong11@ucmerced.edu
-  room: Room: ACS 208D
+  email: "Email: hhong11@ucmerced.edu"
+  room: "Room: ACS 208D"
   description: "Hanbo joined the group in fall 2018. He received his B.E. from South China University of Technology (SCUT) in 2016, specialized in Polymer Materials and Engineering under Prof. Xiaoping Wang's supervision, and then completed M.S. in Material Science in the University of Southern California (USC). He is currently interested in modelling novel vibrational and electronic spectroscopy for complex systems, e.g. vibrational circular dichroism (VCD) for proteins, and two-dimensional electronic spectroscopy (2DES) for organic dyes."
 
 - name: Jiehui (Wendy) Liao
   image: /static/img/members/wendy.png
   position: Undergraduate Student
-  email: Email: jliao22@ucmerced.edu
-  room: Room: ACS 208D
+  email: "Email: jliao22@ucmerced.edu"
+  room: "Room: ACS 208D"
   description: "Jiehui (Wendy) Liao is currently working towards her B.S. in Chemistry at UC Merced. In Liang's group, she is working with Yue on modeling photovoltaic materials using molecular dynamics simulations."
   
 - name: Nhu Kim
   image: /static/img/members/nhu.jpg
   position: Undergraduate Student
-  email: Email: nkim35@ucmerced.edu
-  room: Room: ACS 208D
+  email: "Email: nkim35@ucmerced.edu"
+  room: "Room: ACS 208D"
   description: "Nhu is currently working towards her B.S. in Chemistry at UC Merced. In Liang's group, she is working with Bowen on modeling antifreeze proteins."
