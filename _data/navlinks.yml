@@ -6,6 +6,10 @@
   link: "/members"
   group: members  
 
+- name: activities
+  link: "/activities"
+  group: activities  
+
 - name: research
   link: "/research"
   group: research

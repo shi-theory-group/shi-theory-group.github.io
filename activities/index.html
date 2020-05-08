@@ -1,0 +1,23 @@
+---
+title: Shi Group Members
+layout: activities
+group: activities
+---
+
+<h1>Group Activities</h1>
+
+{% for activity in site.data.activities %}
+<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+<div class="activity-box">
+  <figure class="activity-imgbox">
+    <img class="activity-img img-responsive" src="{{activity.image}}" alt="{{activity.title}}" />
+  </figure>
+  <div class="activity-text">
+	<h2 class="activity-title">{{activity.title}}</h2>
+	<p class="activity-desc">{{activity.description}}</p>
+  </div>
+
+
+</div>
+
+{% endfor %}

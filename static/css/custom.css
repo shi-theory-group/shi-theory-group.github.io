@@ -82,7 +82,7 @@ body {
     padding-bottom: 56.25%;
     padding-top: 30px; height: 0; overflow: hidden;
 }
- 
+
 .video-container iframe,
 .video-container object,
 .video-container embed {
@@ -95,6 +95,28 @@ body {
 
 .chart {
   position: relative;
-  width: 100%; 
+  width: 100%;
   height: 500px
+}
+
+/*activities custom design*/
+.activity-box {
+  position: relative;
+  margin-bottom:100px;
+}
+.activity-text {
+  background: rgba(0, 0, 0, 0.5);
+  width:100%;
+  color:#fff;
+  position:absolute;
+  bottom: 0px;
+  padding:8px;
+}
+.activity-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0px 0px 4px 0px;
+}
+.activity-desc {
+  font-size: 14px;
 }
