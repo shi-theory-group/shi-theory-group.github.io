@@ -120,3 +120,14 @@ body {
 .activity-desc {
   font-size: 14px;
 }
+
+.news-ul {
+  list-style-type: none;
+  padding: 0px;
+  font-size: 14px;
+}
+
+.news-ul h3{
+  font-size: 19px;
+  font-weight: bold;
+}
