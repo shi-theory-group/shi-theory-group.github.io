@@ -12,7 +12,7 @@ Many molecular systems are highly heterogeneous yet functional: for example, nat
 
 ### How do we simulate these systems?
 
-We mostly perform classical molecular dynamics (MD) simulations (some MD snapshots of our simulated systems are shown above), but whenever needed, we use quantum chemistry to guide the use of force fields. We then compute various structural and dynamical properties, including spectroscopy, and validate our simulation by comparing the calculated properties with experiment.   
+We mostly perform classical molecular dynamics (MD) simulations (some MD snapshots of our simulated systems are shown above), but whenever needed, we use quantum chemistry to guide the use of force fields. We then compute various structural and dynamical properties, including spectroscopy, and validate our simulation by comparing the calculated properties with experiment.
 
 ### Why do we model vibrational spectroscopy?
 
