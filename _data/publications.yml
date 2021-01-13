@@ -14,7 +14,7 @@
 #       url: 'http://mullinslab.ucsf.edu/'
 #
 
-- citation: '- [Transfer learning with graph neural networks for optoelectronic properties of conjugated oligomers](https://aip.scitation.org/doi/suppl/10.1063/5.0037863) C.-K. Lee, C. Lu, Y. Yu, Q. Sun, C.-Y. Hsieh, S. Zhang, Q. Liu, and L. Shi.  *J. Chem. Phys.* **154** (2021) 024906.'
+- citation: '- [Transfer learning with graph neural networks for optoelectronic properties of conjugated oligomers](https://aip.scitation.org/doi/abs/10.1063/5.0037863) C.-K. Lee, C. Lu, Y. Yu, Q. Sun, C.-Y. Hsieh, S. Zhang, Q. Liu, and L. Shi.  *J. Chem. Phys.* **154** (2021) 024906.'
 
 - citation: '- [Machine learning Frenkel Hamiltonian parameters to accelerate simulations of exciton dynamics](https://doi.org/10.1063/5.0016009) A. Farahvash, C.-K. Lee, Q. Sun, L. Shi, and A. P. Willard. *J. Chem. Phys.* **153** (2020) 074111.'
 
