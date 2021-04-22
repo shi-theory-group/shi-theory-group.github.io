@@ -14,6 +14,8 @@
 #       url: 'http://mullinslab.ucsf.edu/'
 #
 
+- citation: '- [Vibronic and environmental effects in simulations of optical spectroscopy](https://www.annualreviews.org/doi/abs/10.1146/annurev-physchem-090419-051350) T. J. Zuehlsdorff, S. V. Shedge, S.-Y. Lu, H. Hong, V. P. Aguirre, L. Shi, and C. M. Isborn. *Annu. Rev. Phys. Chem.* **72** (2021) 165.'
+
 - citation: '- [Determining partial atomic charges for liquid water: assessing electronic structure and charge models](https://doi.org/10.1021/acs.jctc.0c01102) B. Han, C. M. Isborn, and L. Shi.  *J. Chem. Theory Comput.* **17** (2021) 889.'
 
 - citation: '- [Transfer learning with graph neural networks for optoelectronic properties of conjugated oligomers](https://aip.scitation.org/doi/abs/10.1063/5.0037863) C.-K. Lee, C. Lu, Y. Yu, Q. Sun, C.-Y. Hsieh, S. Zhang, Q. Liu, and L. Shi.  *J. Chem. Phys.* **154** (2021) 024906.'
