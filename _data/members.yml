@@ -34,12 +34,12 @@
   room: "Room: ACS 208D"
   description: "Hanbo joined the group in fall 2018. He received his B.E. from South China University of Technology (SCUT) in 2016, specialized in Polymer Materials and Engineering under Prof. Xiaoping Wang's supervision, and then completed M.S. in Material Science in the University of Southern California (USC). He is currently interested in modelling novel vibrational and electronic spectroscopy for complex systems, e.g. vibrational circular dichroism (VCD) for proteins, and two-dimensional electronic spectroscopy (2DES) for organic dyes."
 
-# - name: Jiehui (Wendy) Liao
+- name: Jacqueline Leon
 #   image: /static/img/members/wendy.png
-#   position: Undergraduate Student
-#   email: "Email: jliao22@ucmerced.edu"
-#   room: "Room: ACS 208D"
-#   description: "Jiehui (Wendy) Liao is currently working towards her B.S. in Chemistry at UC Merced. In Liang's group, she is working with Yue on modeling photovoltaic materials using molecular dynamics simulations."
+  position: Undergraduate Student
+  email: "Email: jleon34@ucmerced.edu"
+  room: "Room: ACS 208D"
+  description: "Jiehui (Wendy) Liao is currently working towards her B.S. in Chemistry at UC Merced. In Liang's group, she is working with Hanbo on modeling vibrational circular dichroism of proteins."
   
 # - name: Nhu Kim
 #   image: /static/img/members/nhu.jpg
