@@ -10,7 +10,7 @@ Below are some Jupyter notebooks we will use in Chem 113. Please check out "Note
 
 - [Ch16_EOS](/courses/Ch16_EOS/)
 - [Ch17_Blackbody](/courses/Ch17_Blackbody/)
-- [Ch18_Heat_Capacity](/courses/Ch18_Capacity/)
+- [Ch18_Heat_Capacity](/courses/Ch18_Heat_Capacity/)
 - [Ch20_Entropy](/courses/Ch20_Entropy/)
 - [Ch24_Distillation](/courses/Ch24_Distillation/)
 - [Ch26_Equilibrium](/courses/Ch26_Equilibrium/)
