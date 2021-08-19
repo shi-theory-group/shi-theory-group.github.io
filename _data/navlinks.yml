@@ -18,9 +18,9 @@
   link: "/publications"
   group: publications
 
-  #name: news
-  #link: "/news"
-  #group: news
+- name: teaching
+  link: "/courses"
+  group: courses
 
   #- name: contact
   #link: "/contact"
