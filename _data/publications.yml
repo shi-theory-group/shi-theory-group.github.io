@@ -14,13 +14,9 @@
 #       url: 'http://mullinslab.ucsf.edu/'
 #
 
-value: "<a>Preprints</a>"
-
 - citation: '- [Variational quantum simulation of chemical dynamics with quantum computers](https://arxiv.org/abs/2110.06143) C.-K. Lee, C.-Y. Hsieh, S. Zhang, and L. Shi. arXiv: 2110.06143.'
 
 - citation: '- [Simulating energy transfer in molecular systems with digital quantum computers](https://arxiv.org/abs/2101.06879) C.-K. Lee, J. W. Z. Lau, L. Shi, and L. C. Kwek. arXiv: 2101.06879.'
-
-value: "<a>Published</a>"
 
 - citation: '- [The influence of electronic polarization on nonlinear optical spectroscopy](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c05914) S.-Y. Lu, T. J. Zuehlsdorff, H. Hong, V. P. Aguirre, C. M. Isborn, and L. Shi.  *J. Phys. Chem. B* (2021) ASAP.'
 
