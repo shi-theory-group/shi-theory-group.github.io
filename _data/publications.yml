@@ -14,13 +14,15 @@
 #       url: 'http://mullinslab.ucsf.edu/'
 #
 
+- citation: '- Preprint: [A photonic chip-based machine learning approach for the prediction of molecular properties](https://arxiv.org/abs/2203.02285) J. W. Z. Lau, H. Zhang, L. Wan, L. Shi, H. Cai, X. Luo, P. Lo, C. K. Lee, L.-C. Kwek, and A. Q. Liu. arXiv:2203.02285.'
+
 - citation: '- Preprint: [Graph self-supervised learning for optoelectronic properties of organic semiconductors](https://arxiv.org/abs/2112.01633) Z. Zhang, Q. Liu, S. Zhang, C.-Y. Hsieh, L. Shi, and C.-K. Lee. arXiv: 2112.01633.'
 
-- citation: '- Preprint: [Comparison of linear response theory, projected initial maximum overlap method, and molecular dynamics based vibronic spectra: the case of methylene blue.](https://doi.org/10.26434/chemrxiv-2021-22c7z) A. Abou Taka, S.-Y. Lu, D. Gowland, T. J. Zuehlsdorf, H. H. Corzo, A. Pribram-Jones, L. Shi, H. P. Hratchian, and C. M. Isborn. 10.26434/chemrxiv-2021-22c7z.'
+- citation: '- [Comparison of linear response theory, projected initial maximum overlap method, and molecular dynamics based vibronic spectra: the case of methylene blue](https://doi.org/10.26434/chemrxiv-2021-22c7z) A. Abou Taka, S.-Y. Lu, D. Gowland, T. J. Zuehlsdorf, H. H. Corzo, A. Pribram-Jones, L. Shi, H. P. Hratchian, and C. M. Isborn. *J. Chem. Theory Comput.* accepted.'
 
-- citation: '- Preprint: [Variational quantum simulation of chemical dynamics with quantum computers](https://arxiv.org/abs/2110.06143) C.-K. Lee, C.-Y. Hsieh, S. Zhang, and L. Shi. arXiv: 2110.06143.'
+- citation: '- [Variational quantum simulation of chemical dynamics with quantum computers](https://doi.org/10.1021/acs.jctc.1c01176) C.-K. Lee, C.-Y. Hsieh, S. Zhang, and L. Shi. *J. Chem. Theory Comput.* **18** (2022) 2105.'
 
-- citation: '- Preprint: [Simulating energy transfer in molecular systems with digital quantum computers](https://arxiv.org/abs/2101.06879) C.-K. Lee, J. W. Z. Lau, L. Shi, and L. C. Kwek. arXiv: 2101.06879.'
+- citation: '- [Simulating energy transfer in molecular systems with digital quantum computers](https://doi.org/10.1021/acs.jctc.1c01296) C.-K. Lee, J. W. Z. Lau, L. Shi, and L. C. Kwek. *J. Chem. Theory Comput.* **18** (2022) 1347.'
 
 - citation: '- [The influence of electronic polarization on nonlinear optical spectroscopy](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c05914) S.-Y. Lu, T. J. Zuehlsdorff, H. Hong, V. P. Aguirre, C. M. Isborn, and L. Shi.  *J. Phys. Chem. B* **125** (2021) 12214.'
 
