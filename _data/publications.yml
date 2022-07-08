@@ -14,9 +14,13 @@
 #       url: 'http://mullinslab.ucsf.edu/'
 #
 
+- citation: '- Preprint: [Variational quantum simulations of finite-temperature dynamical properties via thermofield dynamics](https://arxiv.org/abs/2203.02285) C.-K. Lee, S.-X. Zhang, C.-Y. Hsieh, S. Zhang, and L. Shi. arXiv:2206.05571.'
+
 - citation: '- Preprint: [A photonic chip-based machine learning approach for the prediction of molecular properties](https://arxiv.org/abs/2203.02285) J. W. Z. Lau, H. Zhang, L. Wan, L. Shi, H. Cai, X. Luo, P. Lo, C. K. Lee, L.-C. Kwek, and A. Q. Liu. arXiv:2203.02285.'
 
-- citation: '- Preprint: [Graph self-supervised learning for optoelectronic properties of organic semiconductors](https://arxiv.org/abs/2112.01633) Z. Zhang, Q. Liu, S. Zhang, C.-Y. Hsieh, L. Shi, and C.-K. Lee. arXiv: 2112.01633.'
+- citation: '- [Graph self-supervised learning for optoelectronic properties of organic semiconductors](https://openreview.net/forum?id=4weU3P5uBs8) Z. Zhang, Q. Liu, S. Zhang, C.-Y. Hsieh, L. Shi, and C.-K. Lee. In the 2nd *AI4Science Workshop* at the *39th International Conference on Machine Learning* (ICML 2022). '
+
+- citation: '- [Epitope alteration by small molecules and applications in drug discovery](https://doi.org/10.1039/D2SC02819K) B. Zhu, J. Yang, R. Van, F. Yang, Y. Yu, A. Yu, K. Ran, K. Yin, Y. Liang, X. Shen, W. Yin, S. H. Choi, Y. Lu, C. Wang, Y. Shao, R. Tanzi, L. Shi, C. Zhang, Y. Cheng, Z. Zhang, and C. Ran. *J. Chem. Theory Comput.* (2022) In press.'
 
 - citation: '- [Comparison of linear response theory, projected initial maximum overlap method, and molecular dynamics based vibronic spectra: the case of methylene blue](https://pubs.acs.org/doi/10.1021/acs.jctc.1c01127) A. Abou Taka, S.-Y. Lu, D. Gowland, T. J. Zuehlsdorf, H. H. Corzo, A. Pribram-Jones, L. Shi, H. P. Hratchian, and C. M. Isborn. *J. Chem. Theory Comput.* **18** (2022) 3039.'
 
