@@ -4,6 +4,10 @@ layout: default
 group: courses
 ---
 
+Under construction.
+
+{::comment}
+
 ## Chem 113: Chemical Thermodynamics and Kinetics
 
 Below are some Jupyter notebooks we will use in Chem 113. Please check out "Note_Jupyter.pdf" in CatCourses to see how to run Jupyter notebook on JupyterLab. 
@@ -15,3 +19,4 @@ Below are some Jupyter notebooks we will use in Chem 113. Please check out "Note
 - [Ch24_Distillation](/courses/Ch24_Distillation/)
 - [Ch26_Equilibrium](/courses/Ch26_Equilibrium/)
 
+{:/comment}
