@@ -1,5 +1,5 @@
-# - #title: "Congratulations to Bowen"
-  # description: "<i>June 2023</i>: <b>Bowen</b> is joining the Oak Ridge National Lab (ORNL) as a postdoc. Wish you all the best!"
+- #title: "Congratulations to Bowen"
+  description: "<i>July 2023</i>: <b>Bowen</b> is joining the Oak Ridge National Lab (ORNL) as a postdoc. Wish you all the best!"
 
 - #title: "Congratulations to Matthew"
   description: "<i>May 2023</i>: <b>Matthew</b> graduated with his bachelor's degree in Chemistry!"
@@ -73,8 +73,8 @@
 - #title: "Congratulations to Hanbo and Bowen"
   description: "<i>July 2020</i>: <b>Hanbo</b> and <b>Bowen</b> have passed their qualifying exams, becoming PhD candidates!"
 
-#- title: "Welcome new undergraduates"
-#  description: "May 2020: Daniel Benito Valenzuela Cahua will work on organic semicondcutors, Jacqueline Leon on proteins, and Gabriel Zepeda on electronic spectroscopy. Welcome!"
+- #title: "Welcome new undergraduates"
+  description: "May 2020: Daniel Benito Valenzuela Cahua will work on organic semicondcutors, Jacqueline Leon on proteins, and Gabriel Zepeda on electronic spectroscopy. Welcome!"
 
 - #title: "Congratulations to Yue"
   description: "<i>May 2020</i>: <b>Yue</b> has been selected to attend the American Chemical Society’s 2020 Postdoc to Faculty (P2F) Workshop!"
