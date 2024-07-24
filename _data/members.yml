@@ -27,12 +27,12 @@
 #  room: "Room: ACS 208D"
 #  description: "Bowen received his B.S. in Chemistry from Peking University in 2015 and did undergraduate research with Prof. Jin Zhang and Prof. Lianming Tong. He completed his M.S. degree in Chemistry under the supervision of Prof. Josef Michl in the University of Colorado Boulder in 2018. He then joined Liang’s group as graduate student. His current research interest is improving modeling of charge transfer within complex environments, e.g., water and its solutions. He is also interested in applying molecular dynamics (MD) to study the behavior of antifreeze proteins in interfacial environments."
 
-- name: Hanbo Hong
-  image: /static/img/members/hanbo.jpg
-  position: Graduate Student
-  email: "Email: hhong11@ucmerced.edu"
-  room: "Room: ACS 208D"
-  description: "Hanbo joined the group in fall 2018. He received his B.E. from South China University of Technology (SCUT) in 2016, specialized in Polymer Materials and Engineering under Prof. Xiaoping Wang's supervision, and then completed M.S. in Material Science in the University of Southern California (USC). He is currently interested in modelling novel vibrational and electronic spectroscopy for complex systems, e.g. vibrational circular dichroism (VCD) for proteins, and two-dimensional electronic spectroscopy (2DES) for organic dyes."
+# - name: Hanbo Hong
+#  image: /static/img/members/hanbo.jpg
+#  position: Graduate Student
+#  email: "Email: hhong11@ucmerced.edu"
+#  room: "Room: ACS 208D"
+#  description: "Hanbo joined the group in fall 2018. He received his B.E. from South China University of Technology (SCUT) in 2016, specialized in Polymer Materials and Engineering under Prof. Xiaoping Wang's supervision, and then completed M.S. in Material Science in the University of Southern California (USC). He is currently interested in modelling novel vibrational and electronic spectroscopy for complex systems, e.g. vibrational circular dichroism (VCD) for proteins, and two-dimensional electronic spectroscopy (2DES) for organic dyes."
   
 - name: Katherine Donahoe
   image: /static/img/members/kat.jpeg
