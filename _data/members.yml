@@ -45,7 +45,7 @@
   image: /static/img/members/gunnar.jpg
   position: Graduate Student
   email: "Email: gcarlson2@ucmerced.edu"
-  room: "Room: ACS 208D"
+  room: "Room: ACS 208A"
   description: "Gunnar joined the group in Spring 2024. He received his B.S. and M.S. in Chemistry from Western Washington University with his thesis focusing on method development of a constrained density functional tight binding followed by a configuration interaction in order to compute electronic couplings. He is interested in the application of machine learning in computing these couplings."
 
 # - name: Jacqueline Leon
