@@ -1,8 +1,14 @@
+- name: Hanbo Hong
+  position: Graduate Student
+  startdate: Fall 2018
+  enddate: Summer 2024
+  current: Tenure-track assistant professor at Truman State University
+
 - name: Bowen Han
   position: Graduate Student
   startdate: Fall 2018
   enddate: Spring 2023
-  #current: Oak Ridge National Lab
+  current: Postdoc at Oak Ridge National Lab
 
 - name: Matthew Ferreyra
   position: Undergraduate Student
@@ -14,13 +20,13 @@
   position: Postdoctoral Scholar
   startdate: Fall 2019
   enddate: Spring 2023
-  #current: Unknown
+  current: AI engineer at Bayes Solutions
 
 - name: Yue Yu
   position: Postdoctoral Scholar
   startdate: Spring 2019
   enddate: Fall 2021
-  #current: Senior Research Computing Facilitator
+  current: Senior Research Computing Facilitator at UC Merced
   
 - name: Jacqueline Leon
   position: Undergraduate Student
