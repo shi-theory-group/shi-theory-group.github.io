@@ -6,6 +6,20 @@
   room: "Room: ACS 219"
   description: "Liang received his B.S. degree in Chemistry in 2009 from the University of Science and Technology of China (USTC), and did undergraduate research with Prof. Yao Fu. He then moved to Madison WI, and received his Ph.D. in Chemistry in 2014 under the supervision of Prof. James Skinner. After doing a postdoc with Prof. Adam Willard at MIT, he started his independent career at UC Merced in 2016. He is interested in developing and applying models to understand structure, dynamics, and spectroscopy of heterogeneous molecular systems."
 
+- name: Katherine Donahoe
+  image: /static/img/members/kat.jpeg
+  position: Graduate Student
+  email: "Email: kdonahoe@ucmerced.edu"
+  room: "Room: ACS 208D"
+  description: "Kat joined the group in Spring 2023. She received a B.S. in Chemistry from California State University, Los Angeles in 2010. In 2017, she received an M.S. in Analytical Chemistry from Washington State University, where she worked on mass spectrometry instrument development in the Reilly group. She is currently working on mixed QM/MM methods for modeling and understanding solvent dynamics and their manifestation in optical spectroscopy."
+
+- name: Gunnar Carlson
+  image: /static/img/members/gunnar.jpg
+  position: Graduate Student
+  email: "Email: gcarlson2@ucmerced.edu"
+  room: "Room: ACS 208A"
+  description: "Gunnar joined the group in Spring 2024. He received his B.S. and M.S. in Chemistry from Western Washington University with his thesis focusing on method development of a constrained density functional tight binding followed by a configuration interaction in order to compute electronic couplings. He is interested in the application of machine learning in computing these couplings."
+
 # - name: Yue Yu
 #  image: /static/img/members/yue.jpeg
 #  position: Postdoctoral Scholar
@@ -33,20 +47,6 @@
 #  email: "Email: hhong11@ucmerced.edu"
 #  room: "Room: ACS 208D"
 #  description: "Hanbo joined the group in fall 2018. He received his B.E. from South China University of Technology (SCUT) in 2016, specialized in Polymer Materials and Engineering under Prof. Xiaoping Wang's supervision, and then completed M.S. in Material Science in the University of Southern California (USC). He is currently interested in modelling novel vibrational and electronic spectroscopy for complex systems, e.g. vibrational circular dichroism (VCD) for proteins, and two-dimensional electronic spectroscopy (2DES) for organic dyes."
-  
-- name: Katherine Donahoe
-  image: /static/img/members/kat.jpeg
-  position: Graduate Student
-  email: "Email: kdonahoe@ucmerced.edu"
-  room: "Room: ACS 208D"
-  description: "Kat joined the group in Spring 2023. She received a B.S. in Chemistry from California State University, Los Angeles in 2010. In 2017, she received an M.S. in Analytical Chemistry from Washington State University, where she worked on mass spectrometry instrument development in the Reilly group. She is currently working on mixed QM/MM methods for modeling and understanding solvent dynamics and their manifestation in optical spectroscopy."
-
-- name: Gunnar Carlson
-  image: /static/img/members/gunnar.jpg
-  position: Graduate Student
-  email: "Email: gcarlson2@ucmerced.edu"
-  room: "Room: ACS 208A"
-  description: "Gunnar joined the group in Spring 2024. He received his B.S. and M.S. in Chemistry from Western Washington University with his thesis focusing on method development of a constrained density functional tight binding followed by a configuration interaction in order to compute electronic couplings. He is interested in the application of machine learning in computing these couplings."
 
 # - name: Jacqueline Leon
 #   image: /static/img/members/wendy.png
