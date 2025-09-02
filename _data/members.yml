@@ -6,6 +6,13 @@
   room: "Room: ACS 219"
   description: "Liang received his B.S. degree in Chemistry in 2009 from the University of Science and Technology of China (USTC), and did undergraduate research with Prof. Yao Fu. He then moved to Madison WI, and received his Ph.D. in Chemistry in 2014 under the supervision of Prof. James Skinner. After doing a postdoc with Prof. Adam Willard at MIT, he started his independent career at UC Merced in 2016. He is interested in developing and applying models to understand structure, dynamics, and spectroscopy of heterogeneous molecular systems."
 
+- name: Shao-Yu Lu
+  image: /static/img/members/chamikara.jpg
+  position: Postdoctoral Scholar
+  email: "Email: ckarunasena@ucmerced.edu"
+  room: "Room: ACS 213"
+  description: "Chamikara earned his Ph.D. in Chemistry from the University of Kentucky. His doctoral research focused on the development of synthetic organic materials via multiscale computational modeling and simulations. His expertise are in classical molecular dynamics with enhanced sampling techniques, quantum chemical calculations, and both theoretical and experimental X-ray spectroscopic methods. He is currently pursuing postdoctoral research on the development of hybrid electro-optic materials under the joint supervision of [Dr. Christine Isborn](https://sites.ucmerced.edu/cisborn) and Dr. Liang Shi. His Github can be found [here](https://github.com/chamikaradk)." 
+
 - name: Katherine Donahoe
   image: /static/img/members/kat.jpeg
   position: Graduate Student
